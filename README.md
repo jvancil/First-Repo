@@ -1,2 +1,3 @@
 # First-Repo
-Fisrt repository - to be used for testing and figuring stuff out.
+First repository - to be used for testing and figuring stuff out.
+John Vancil - jvancil@ostusa.com  
